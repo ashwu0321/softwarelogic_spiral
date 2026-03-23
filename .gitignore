@@ -1,0 +1,10 @@
+.lake/
+build/
+*.olean
+*.ilean
+*.trace
+*.hash
+*.c
+*.o
+*.exe
+*.json
